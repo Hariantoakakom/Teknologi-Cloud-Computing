@@ -1,1 +1,2 @@
 # Teknologi-Cloud-Computing
+# remedi
